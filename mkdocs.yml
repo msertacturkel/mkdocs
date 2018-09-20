@@ -1,0 +1,5 @@
+site_name: Sample MkDocs page 
+nav:
+    - Home: index.md
+themes: material
+repo_url: https://github.com/msertacturkel/mkdocs
