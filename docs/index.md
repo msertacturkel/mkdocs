@@ -1,4 +1,4 @@
-# Sample Page2
+# Sample Page3
 
 This is a test site hosted on [GitLab Pages](https://pages.gitlab.io). You can
 [browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
