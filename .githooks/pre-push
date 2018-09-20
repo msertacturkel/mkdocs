@@ -1,0 +1,5 @@
+#!/bin/sh
+echo
+echo "==== mst pre push ===="
+echo
+
